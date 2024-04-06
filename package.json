@@ -11,5 +11,9 @@
   "dependencies": {
     "node-html-parser": "^6.1.13",
     "puppeteer": "^22.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathsou/pico8-index"
   }
 }
